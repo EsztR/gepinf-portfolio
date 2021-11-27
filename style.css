@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2&family=Big+Shoulders+Display&display=swap');
+
+body {
+    color: #b8f0ff;
+    background-color: #083040;
+    font-family: 'Baloo Paaji 2', cursive;
+    width: 80%;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #68ff68;
+}
+
+img {
+    border-radius: 5pt;
+}
+
+h1, h2 {
+    color: #80ffff;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: xxx-large;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+.kartya {
+    background-color: #105060;
+    border-radius: 15pt 5pt;
+    padding: 13pt 20pt;
+    margin-top: 20pt;
+    text-align: justify;
+}
+
+#navigacio {
+    text-align: center;
+    margin-bottom: 20pt;
+    padding-bottom: 20pt;
+    border-bottom-style: dashed;
+    border-bottom-color:#60c0c0;
+    border-bottom-width: 1pt;
+}
+
+#lablec {
+    margin-top: 20pt;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
